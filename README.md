@@ -217,6 +217,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
+| [3701-compute-alternating-sum](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3701-compute-alternating-sum/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -291,6 +292,7 @@
 | [3618-split-array-by-prime-indices](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3618-split-array-by-prime-indices/) | Medium |
 | [3674-minimum-operations-to-equalize-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3674-minimum-operations-to-equalize-array/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
+| [3701-compute-alternating-sum](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3701-compute-alternating-sum/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
