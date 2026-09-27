@@ -156,6 +156,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0605-can-place-flowers](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1323-maximum-69-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1323-maximum-69-number/) | Easy |
 | [1927-sum-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1927-sum-game/) | Medium |
@@ -244,6 +245,7 @@
 | [0506-relative-ranks](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0506-relative-ranks/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0575-distribute-candies](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0575-distribute-candies/) | Easy |
+| [0605-can-place-flowers](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
