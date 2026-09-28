@@ -133,6 +133,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1408-string-matching-in-an-array/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1816-truncate-sentence](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1816-truncate-sentence/) | Easy |
@@ -650,10 +651,12 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2000-reverse-prefix-of-word/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
