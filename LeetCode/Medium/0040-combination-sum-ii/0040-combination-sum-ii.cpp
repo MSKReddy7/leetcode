@@ -8,9 +8,11 @@ void gen(vector<int>& nums, int idx, int n, int target, vector<vector<int>>& res
     for(int i=idx; i<n; i++){
         if(prev==nums[i]) continue;
         if(target-nums[i] < 0) return;
+
         temp.push_back(nums[i]);
         gen(nums, i+1, n, target-nums[i], res, temp);
         temp.pop_back();
+        
         prev = nums[i];
     }
 }
