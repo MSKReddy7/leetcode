@@ -229,6 +229,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0039-combination-sum](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0053-maximum-subarray](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
@@ -373,6 +374,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
