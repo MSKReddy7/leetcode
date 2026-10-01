@@ -24,6 +24,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2206-divide-array-into-equal-pairs/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2351-first-letter-to-appear-twice/) | Easy |
+| [2404-most-frequent-even-element](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2404-most-frequent-even-element/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2506-count-pairs-of-similar-strings/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2540-minimum-common-value](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
@@ -275,6 +276,7 @@
 | [1920-build-array-from-permutation](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1920-build-array-from-permutation/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2206-divide-array-into-equal-pairs/) | Easy |
+| [2404-most-frequent-even-element](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2404-most-frequent-even-element/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2506-count-pairs-of-similar-strings/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -347,6 +349,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2206-divide-array-into-equal-pairs/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2351-first-letter-to-appear-twice/) | Easy |
+| [2404-most-frequent-even-element](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2404-most-frequent-even-element/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2506-count-pairs-of-similar-strings/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3044-most-frequent-prime](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3044-most-frequent-prime/) | Medium |
