@@ -10,12 +10,9 @@ public:
         int mx = 0;
 
         for(auto it: mp){
-            if(mx<it.second){
+            if(mx<it.second || (mx == it.second && ele>it.first)){
                 ele = it.first;
                 mx = it.second;
-            }
-            else if(mx == it.second && ele>it.first){
-                ele = it.first;
             }
         }   
         return ele;
