@@ -232,6 +232,7 @@
 | [0039-combination-sum](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
@@ -377,6 +378,7 @@
 | [0039-combination-sum](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0077-combinations](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0089-gray-code/) | Medium |
@@ -672,4 +674,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
