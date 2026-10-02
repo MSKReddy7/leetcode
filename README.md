@@ -129,6 +129,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0434-number-of-segments-in-a-string/) | Easy |
+| [0541-reverse-string-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0541-reverse-string-ii/) | Easy |
 | [0709-to-lower-case](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0771-jewels-and-stones/) | Easy |
 | [0917-reverse-only-letters](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0917-reverse-only-letters/) | Easy |
@@ -503,6 +504,7 @@
 | [0344-reverse-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0541-reverse-string-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0541-reverse-string-ii/) | Easy |
 | [0832-flipping-an-image](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [0917-reverse-only-letters](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0917-reverse-only-letters/) | Easy |
