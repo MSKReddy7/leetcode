@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0037-sudoku-solver](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0169-majority-element](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
@@ -237,6 +238,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0027-remove-element](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
+| [0037-sudoku-solver](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
@@ -391,6 +393,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
+| [0037-sudoku-solver](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
@@ -572,6 +575,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0832-flipping-an-image](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2614-prime-in-diagonal/) | Easy |
 | [3044-most-frequent-prime](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3044-most-frequent-prime/) | Medium |
@@ -713,10 +717,15 @@
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Hard/0052-n-queens-ii/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
