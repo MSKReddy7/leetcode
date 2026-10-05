@@ -134,6 +134,7 @@
 | [0541-reverse-string-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0541-reverse-string-ii/) | Easy |
 | [0709-to-lower-case](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0771-jewels-and-stones/) | Easy |
+| [0856-score-of-parentheses](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0856-score-of-parentheses/) | Medium |
 | [0917-reverse-only-letters](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0917-reverse-only-letters/) | Easy |
 | [0925-long-pressed-name](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0925-long-pressed-name/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
@@ -699,6 +700,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
+| [0856-score-of-parentheses](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -709,6 +711,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
+| [0856-score-of-parentheses](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
