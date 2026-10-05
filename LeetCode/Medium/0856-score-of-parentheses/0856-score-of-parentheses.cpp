@@ -9,14 +9,13 @@ public:
         int score = 0;
         int prev = 0;
         for(int i=0; i<n; i++){
-            if(s[i] == '('){
+            if(s[i] == '(')
                 inc(prev);
-            }
             else{
-                if(s[i-1]=='(') score += prev;
                 prev /= 2;
+                if(s[i-1]=='(') score += prev;
             }
         }
-        return score/2;
+        return score;
     }
 };
