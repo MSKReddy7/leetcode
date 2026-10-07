@@ -75,6 +75,7 @@
 | [1922-count-good-numbers](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1922-count-good-numbers/) | Medium |
 | [1927-sum-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1927-sum-game/) | Medium |
 | [1952-three-divisors](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2119-a-number-after-a-double-reversal/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2413-smallest-even-multiple/) | Easy |
@@ -289,6 +290,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1920-build-array-from-permutation/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2206-divide-array-into-equal-pairs/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2404-most-frequent-even-element/) | Easy |
@@ -444,6 +446,7 @@
 | [0204-count-primes](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [0866-prime-palindrome](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0866-prime-palindrome/) | Medium |
 | [1952-three-divisors](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2413-smallest-even-multiple/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
@@ -571,10 +574,12 @@
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Greatest Common Divisor
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
