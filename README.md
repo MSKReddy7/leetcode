@@ -261,6 +261,7 @@
 | [0204-count-primes](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 | [0260-single-number-iii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0260-single-number-iii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
@@ -596,6 +597,7 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Brainteaser
@@ -665,6 +667,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -672,6 +675,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 | [0506-relative-ranks](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0506-relative-ranks/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -743,4 +747,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
