@@ -15,12 +15,13 @@ public:
         int sum = 0;
 
         for(int i=2; i<=n; i++){
-            if(isPrime[i] && sum+i<=s){
+            if(isPrime[i]){
+                if(sum+i>s) break;
                 res.push_back(i);
                 sum += i;
             }
         } 
-        
+
         return res;
     }
 };
