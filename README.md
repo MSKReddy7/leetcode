@@ -5,6 +5,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
@@ -242,6 +243,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0027-remove-element](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0037-sudoku-solver](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
