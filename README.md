@@ -112,6 +112,7 @@
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3618-split-array-by-prime-indices/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3783-mirror-distance-of-an-integer/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3871-count-commas-in-range-ii/) | Medium |
@@ -182,6 +183,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/4036-lexicographically-largest-string-after-pair-transformations/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
