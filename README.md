@@ -235,6 +235,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1688-count-of-matches-in-tournament/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1920-build-array-from-permutation/) | Easy |
+| [1929-concatenation-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2562-find-the-array-concatenation-value/) | Easy |
@@ -298,6 +299,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1920-build-array-from-permutation/) | Easy |
+| [1929-concatenation-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2206-divide-array-into-equal-pairs/) | Easy |
