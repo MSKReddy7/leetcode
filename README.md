@@ -322,6 +322,7 @@
 | [3044-most-frequent-prime](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3044-most-frequent-prime/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3115-maximum-prime-difference/) | Medium |
+| [3131-find-the-integer-added-to-array-i](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3131-find-the-integer-added-to-array-i/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
