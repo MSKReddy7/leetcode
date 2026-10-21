@@ -701,6 +701,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -709,6 +710,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -717,6 +719,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -781,4 +784,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
