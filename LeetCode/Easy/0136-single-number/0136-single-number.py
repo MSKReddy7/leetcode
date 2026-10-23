@@ -8,3 +8,4 @@ class Solution(object):
         for i in nums:
             res ^= i
         return res
+
