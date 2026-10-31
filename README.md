@@ -324,6 +324,7 @@
 | [2942-find-words-containing-character](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
 | [3024-type-of-triangle](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3024-type-of-triangle/) | Easy |
 | [3044-most-frequent-prime](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3044-most-frequent-prime/) | Medium |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3115-maximum-prime-difference/) | Medium |
 | [3131-find-the-integer-added-to-array-i](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3131-find-the-integer-added-to-array-i/) | Easy |
