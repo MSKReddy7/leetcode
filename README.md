@@ -516,6 +516,7 @@
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0342-power-of-four](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
@@ -538,6 +539,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
@@ -688,6 +690,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0148-sort-list](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Sliding Window
@@ -760,6 +763,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0856-score-of-parentheses](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
