@@ -121,6 +121,7 @@
 | [3783-mirror-distance-of-an-integer](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3783-mirror-distance-of-an-integer/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3871-count-commas-in-range-ii/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3895-count-digit-appearances](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3895-count-digit-appearances/) | Medium |
 | [3945-digit-frequency-score](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
 | [3996-even-number-of-knight-moves](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3996-even-number-of-knight-moves/) | Easy |
@@ -356,6 +357,7 @@
 | [3731-find-missing-elements](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3895-count-digit-appearances](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3895-count-digit-appearances/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3904-smallest-stable-index-ii/) | Medium |
