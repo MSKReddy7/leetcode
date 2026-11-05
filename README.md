@@ -46,6 +46,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
+| [3866-first-unique-even-element](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3866-first-unique-even-element/) | Easy |
 | [3945-digit-frequency-score](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -356,6 +357,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
+| [3866-first-unique-even-element](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3866-first-unique-even-element/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3895-count-digit-appearances](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3895-count-digit-appearances/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
@@ -411,6 +413,7 @@
 | [3467-transform-array-by-parity](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3467-transform-array-by-parity/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3866-first-unique-even-element](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3866-first-unique-even-element/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
