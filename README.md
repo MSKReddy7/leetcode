@@ -301,6 +301,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1408-string-matching-in-an-array/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1470-shuffle-the-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1470-shuffle-the-array/) | Easy |
@@ -382,6 +383,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1859-sorting-the-sentence/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -559,6 +561,7 @@
 | [0917-reverse-only-letters](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0917-reverse-only-letters/) | Easy |
 | [0925-long-pressed-name](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0925-long-pressed-name/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2000-reverse-prefix-of-word/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
 | [2540-minimum-common-value](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
@@ -600,6 +603,7 @@
 | [0367-valid-perfect-square](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0441-arranging-coins/) | Easy |
 | [0704-binary-search](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2601-prime-subtraction-operation](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2601-prime-subtraction-operation/) | Medium |
