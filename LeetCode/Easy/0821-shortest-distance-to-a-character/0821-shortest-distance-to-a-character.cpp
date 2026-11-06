@@ -9,10 +9,10 @@ public:
             if(s[i] == c) idx = i;
             res[i] = abs(i-idx);
         }
-        
+
         for(int i=n-1; i>=0; i--){
-            res[i] = min(res[i],abs(i-idx));
             if(s[i] == c) idx = i;
+            res[i] = min(res[i],abs(i-idx));
         }
         return res;
     }
