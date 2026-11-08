@@ -10,6 +10,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
@@ -270,6 +271,7 @@
 | [0075-sort-colors](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0137-single-number-ii/) | Medium |
 | [0164-maximum-gap](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0164-maximum-gap/) | Medium |
@@ -836,5 +838,6 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1267-count-servers-that-communicate/) | Medium |
 <!---LeetCode Topics End-->
