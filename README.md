@@ -302,6 +302,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1018-binary-prefix-divisible-by-5](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1207-unique-number-of-occurrences/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -406,6 +407,7 @@
 | [0383-ransom-note](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1267-count-servers-that-communicate/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2206-divide-array-into-equal-pairs/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2351-first-letter-to-appear-twice/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2404-most-frequent-even-element/) | Easy |
@@ -637,6 +639,7 @@
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0832-flipping-an-image](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1267-count-servers-that-communicate/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2614-prime-in-diagonal/) | Easy |
 | [3044-most-frequent-prime](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3044-most-frequent-prime/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
@@ -749,6 +752,7 @@
 | [0112-path-sum](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1267-count-servers-that-communicate/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -824,8 +828,13 @@
 | [0100-same-tree](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1267-count-servers-that-communicate/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1267-count-servers-that-communicate/) | Medium |
 <!---LeetCode Topics End-->
