@@ -243,6 +243,7 @@
 | ------- | ------- |
 | [0067-add-binary](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0832-flipping-an-image](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
+| [1389-create-target-array-in-the-given-order](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1389-create-target-array-in-the-given-order/) | Easy |
 | [1518-water-bottles](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1518-water-bottles/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1688-count-of-matches-in-tournament/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
@@ -311,6 +312,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1389-create-target-array-in-the-given-order](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1389-create-target-array-in-the-given-order/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1408-string-matching-in-an-array/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1470-shuffle-the-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1470-shuffle-the-array/) | Easy |
