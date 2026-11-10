@@ -1,16 +1,14 @@
 class Solution {
 public:
-    void gen(int n, vector<int>& nums, vector<vector<int>>& res, vector<int>& temp, vector<int>& mask){
+    void gen(int n, vector<int>& nums, vector<vector<int>>& res, vector<int>& temp, int picked){
         if(temp.size() == n){
             res.push_back(temp);
             return;
         }
         for(int i=0; i<n; i++){
-            if(mask[i] || (i>0 && nums[i]==nums[i-1] && !mask[i-1])) continue;
+            if((picked>>i&1) || (i>0 && nums[i]==nums[i-1] && !(picked>>(i-1)&1))) continue;
             temp.push_back(nums[i]);
-            mask[i] = 1;
-            gen(n, nums, res, temp, mask);
-            mask[i] = 0;
+            gen(n, nums, res, temp, picked | 1<<i);
             temp.pop_back();
         }
     }
@@ -19,8 +17,7 @@ public:
         sort(nums.begin(),nums.end());
         vector<vector<int>> res;
         vector<int> temp;
-        vector<int> mask(n, 0);
-        gen(n, nums, res, temp, mask);
+        gen(n, nums, res, temp, 0);
         return res;
     }
 };
