@@ -175,6 +175,7 @@
 | [2942-find-words-containing-character](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3216-lexicographically-smallest-string-after-a-swap](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3216-lexicographically-smallest-string-after-a-swap/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MSKReddy7/daily-leetcode/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
@@ -195,6 +196,7 @@
 | [2601-prime-subtraction-operation](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2601-prime-subtraction-operation/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3216-lexicographically-smallest-string-after-a-swap](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3216-lexicographically-smallest-string-after-a-swap/) | Easy |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
