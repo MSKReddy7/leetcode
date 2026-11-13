@@ -11,15 +11,16 @@
 class Solution {
 public:
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
-        unordered_set<int> st(nums.begin(),nums.end());
-        
-        while(head && st.contains(head->val))
+        bitset<100001> bst;
+        for(auto &i: nums)
+            bst[i] = 1;
+        while(head && bst[head->val])
             head = head->next;
 
         ListNode *curr = head->next;
         ListNode *prev = head;
         while(curr){
-            if(st.contains(curr->val)){
+            if(bst[curr->val]){
                 curr = curr->next;
                 continue;
             }
