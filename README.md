@@ -59,6 +59,7 @@
 | [0070-climbing-stairs](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0089-gray-code](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0089-gray-code/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0168-excel-sheet-column-title/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0171-excel-sheet-column-number/) | Easy |
 | [0189-rotate-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
@@ -141,6 +142,7 @@
 | [0067-add-binary](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0168-excel-sheet-column-title/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0171-excel-sheet-column-number/) | Easy |
 | [0242-valid-anagram](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
