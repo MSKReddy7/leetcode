@@ -1,10 +1,9 @@
 class Solution {
 public:
     int titleToNumber(string columnTitle) {
-        int n = columnTitle.length()-1;
-        int res = 0;
+        int ans = 0;
         for(auto i: columnTitle)
-            res += (int) ((i-'A'+1) * pow(26,n--));
-        return res;
+            ans = ans*26 + (i-'A'+1);
+        return ans;
     }
 };
