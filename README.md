@@ -323,6 +323,7 @@
 | [1408-string-matching-in-an-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1408-string-matching-in-an-array/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1470-shuffle-the-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1470-shuffle-the-array/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1816-truncate-sentence](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1816-truncate-sentence/) | Easy |
@@ -814,6 +815,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2000-reverse-prefix-of-word/) | Easy |
 ## Graph Theory
@@ -858,4 +860,8 @@
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1267-count-servers-that-communicate/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 <!---LeetCode Topics End-->
