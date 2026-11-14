@@ -9,7 +9,6 @@ public:
             while(j<n){
                 sum += nums[j];
                 if(j-i+1 == l){
-                    cout << l << "->" << sum << endl;
                     if(sum>0) mn = min(mn, sum);
                     sum -= nums[i++];
                 }
