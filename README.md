@@ -132,6 +132,7 @@
 | [3895-count-digit-appearances](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3895-count-digit-appearances/) | Medium |
 | [3945-digit-frequency-score](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3986-number-of-elapsed-seconds-between-two-times/) | Easy |
 | [3996-even-number-of-knight-moves](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3996-even-number-of-knight-moves/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -189,6 +190,7 @@
 | [3760-maximum-substrings-with-distinct-start](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3794-reverse-string-prefix/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3986-number-of-elapsed-seconds-between-two-times/) | Easy |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/4036-lexicographically-largest-string-after-pair-transformations/) | Medium |
 ## Greedy
