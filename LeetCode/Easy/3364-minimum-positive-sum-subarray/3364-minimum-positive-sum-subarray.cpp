@@ -5,7 +5,7 @@ public:
         int mn = INT_MAX;
         for(; l<=r; l++){
             int i{},j{};
-            int sum = 0;
+            int sum{};
             while(j<n){
                 sum += nums[j];
                 if(j-i+1 == l){
