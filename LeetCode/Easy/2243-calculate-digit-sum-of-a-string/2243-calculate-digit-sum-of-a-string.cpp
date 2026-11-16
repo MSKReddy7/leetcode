@@ -7,10 +7,10 @@ public:
             int n = s.length(); 
             for(int i=0; i<n; i++){ 
                 sum += s[i] - '0'; 
-                if(i == n-1 || ((i+1)%k==0 && i)){
+                if((i+1)%k==0 || i+1==n){
                     temp += to_string(sum);
                     sum = 0;
-                } 
+                }
             }
             s = temp;
         }
