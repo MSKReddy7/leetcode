@@ -293,6 +293,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0137-single-number-ii/) | Medium |
+| [0162-find-peak-element](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
 | [0164-maximum-gap](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0164-maximum-gap/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
@@ -641,6 +642,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0069-sqrtx](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
+| [0162-find-peak-element](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0278-first-bad-version](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
