@@ -176,6 +176,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2351-first-letter-to-appear-twice/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2390-removing-stars-from-a-string/) | Medium |
 | [2506-count-pairs-of-similar-strings](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2506-count-pairs-of-similar-strings/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [2810-faulty-keyboard](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2810-faulty-keyboard/) | Easy |
@@ -264,6 +265,7 @@
 | [1920-build-array-from-permutation](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2390-removing-stars-from-a-string/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2562-find-the-array-concatenation-value/) | Easy |
@@ -839,6 +841,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2000-reverse-prefix-of-word/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2390-removing-stars-from-a-string/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
