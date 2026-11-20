@@ -28,6 +28,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2206-divide-array-into-equal-pairs/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2341-maximum-number-of-pairs-in-array/) | Easy |
@@ -173,6 +174,7 @@
 | [1859-sorting-the-sentence](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1859-sorting-the-sentence/) | Easy |
 | [1927-sum-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1927-sum-game/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2000-reverse-prefix-of-word/) | Easy |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
@@ -446,6 +448,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1267-count-servers-that-communicate](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1267-count-servers-that-communicate/) | Medium |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2206-divide-array-into-equal-pairs/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2341-maximum-number-of-pairs-in-array/) | Easy |
