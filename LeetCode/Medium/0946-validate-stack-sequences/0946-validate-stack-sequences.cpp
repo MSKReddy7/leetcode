@@ -10,6 +10,6 @@ public:
                 stk.pop();
             } 
         }
-        return !stk.size() && j==popped.size();
+        return !stk.size();
     }
 };
