@@ -261,6 +261,7 @@
 | ------- | ------- |
 | [0067-add-binary](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0832-flipping-an-image](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
+| [0946-validate-stack-sequences](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0946-validate-stack-sequences/) | Medium |
 | [1389-create-target-array-in-the-given-order](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1389-create-target-array-in-the-given-order/) | Easy |
 | [1518-water-bottles](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1518-water-bottles/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1688-count-of-matches-in-tournament/) | Easy |
@@ -327,6 +328,7 @@
 | [0832-flipping-an-image](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
 | [0877-stone-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
+| [0946-validate-stack-sequences](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0946-validate-stack-sequences/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0989-add-to-array-form-of-integer/) | Easy |
 | [1018-binary-prefix-divisible-by-5](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1018-binary-prefix-divisible-by-5/) | Easy |
@@ -841,6 +843,7 @@
 | [0234-palindrome-linked-list](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0856-score-of-parentheses](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0946-validate-stack-sequences/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
