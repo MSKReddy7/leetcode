@@ -375,6 +375,7 @@
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2869-minimum-operations-to-collect-elements](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2869-minimum-operations-to-collect-elements/) | Easy |
 | [2942-find-words-containing-character](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
+| [2951-find-the-peaks](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2951-find-the-peaks/) | Easy |
 | [3024-type-of-triangle](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3024-type-of-triangle/) | Easy |
 | [3044-most-frequent-prime](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3044-most-frequent-prime/) | Medium |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
@@ -528,6 +529,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1952-three-divisors](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2761-prime-pairs-with-target-sum/) | Medium |
+| [2951-find-the-peaks](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2951-find-the-peaks/) | Easy |
 | [3044-most-frequent-prime](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3044-most-frequent-prime/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3827-count-monobit-integers](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3827-count-monobit-integers/) | Easy |
