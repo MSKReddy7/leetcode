@@ -377,6 +377,7 @@
 | [2601-prime-subtraction-operation](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2601-prime-subtraction-operation/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2614-prime-in-diagonal/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2761-prime-pairs-with-target-sum/) | Medium |
+| [2798-number-of-employees-who-met-the-target](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2869-minimum-operations-to-collect-elements](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2869-minimum-operations-to-collect-elements/) | Easy |
 | [2942-find-words-containing-character](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
