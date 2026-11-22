@@ -96,6 +96,7 @@
 | [2119-a-number-after-a-double-reversal](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2119-a-number-after-a-double-reversal/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2413-smallest-even-multiple/) | Easy |
+| [2427-number-of-common-factors](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2427-number-of-common-factors/) | Easy |
 | [2469-convert-the-temperature](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2469-convert-the-temperature/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2485-find-the-pivot-integer/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
@@ -534,6 +535,7 @@
 | [0204-count-primes](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1952-three-divisors](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
+| [2427-number-of-common-factors](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2427-number-of-common-factors/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2761-prime-pairs-with-target-sum/) | Medium |
 | [2951-find-the-peaks](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2951-find-the-peaks/) | Easy |
 | [3044-most-frequent-prime](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3044-most-frequent-prime/) | Medium |
@@ -548,6 +550,7 @@
 | [1952-three-divisors](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2413-smallest-even-multiple/) | Easy |
+| [2427-number-of-common-factors](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2427-number-of-common-factors/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2523-closest-prime-numbers-in-range/) | Medium |
@@ -689,11 +692,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2427-number-of-common-factors](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2427-number-of-common-factors/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Greatest Common Divisor
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2427-number-of-common-factors](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2427-number-of-common-factors/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
