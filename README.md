@@ -342,6 +342,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1207-unique-number-of-occurrences/) | Easy |
 | [1267-count-servers-that-communicate](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1267-count-servers-that-communicate/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -682,6 +683,7 @@
 | [0441-arranging-coins](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0441-arranging-coins/) | Easy |
 | [0704-binary-search](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
