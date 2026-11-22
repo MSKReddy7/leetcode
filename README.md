@@ -333,6 +333,7 @@
 | [0704-binary-search](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0821-shortest-distance-to-a-character/) | Easy |
 | [0832-flipping-an-image](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0946-validate-stack-sequences/) | Medium |
@@ -680,6 +681,7 @@
 | [0367-valid-perfect-square](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0441-arranging-coins/) | Easy |
 | [0704-binary-search](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
