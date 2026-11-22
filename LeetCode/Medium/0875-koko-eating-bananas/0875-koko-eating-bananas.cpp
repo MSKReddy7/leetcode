@@ -3,7 +3,7 @@ public:
     int calc(int mid,vector<int>& piles, int h){
         long long time{};
         for(auto i: piles)
-            time += ceil((double)i/mid);
+            time += (i+mid-1)/mid;
         return time>h;
     }
     int minEatingSpeed(vector<int>& piles, int h) {
