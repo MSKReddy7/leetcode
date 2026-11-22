@@ -1,16 +1,11 @@
 class Solution {
 public:
     int numberOfSpecialChars(string word) {
-        unordered_set<char> st(word.begin(),word.end());
-        unordered_set<char> seen;
-        int cnt{};
-        for(auto c: st){
-            if(!seen.contains(tolower(c)) && !seen.contains(toupper(c)) && ((islower(c) && st.contains(toupper(c))) || (isupper(c) && st.contains(tolower(c))))){
-                cnt++;
-                seen.insert(tolower(c));
-                seen.insert(toupper(c));
-            }
+        int A{},a{};
+        for(auto c: word){
+            if(islower(c)) a |= 1 << (c-'a');
+            else A |= 1 << (c-'A');
         }
-        return cnt;
+        return __builtin_popcount(A&a);
     }
 };
