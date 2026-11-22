@@ -43,6 +43,7 @@
 | [2869-minimum-operations-to-collect-elements](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2869-minimum-operations-to-collect-elements/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3044-most-frequent-prime](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3044-most-frequent-prime/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
@@ -193,6 +194,7 @@
 | [2942-find-words-containing-character](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3216-lexicographically-smallest-string-after-a-swap/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MSKReddy7/daily-leetcode/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
