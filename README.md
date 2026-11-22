@@ -347,6 +347,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1470-shuffle-the-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1470-shuffle-the-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1528-shuffle-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1528-shuffle-string/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
@@ -647,6 +648,7 @@
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2485-find-the-pivot-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
